@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "761280917050",
+    "project_id": "account-kit-dabed",
+    "storage_bucket": "account-kit-dabed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761280917050:android:e1b951e5548c0c861c4f03",
+        "android_client_info": {
+          "package_name": "com.example.accountkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761280917050-jjo9aqt559h8srv0bk0a5shs4l4mjah8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFl4a5V8h3jlk4WVRyxQPwNZra2ZMRLDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761280917050-jjo9aqt559h8srv0bk0a5shs4l4mjah8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
